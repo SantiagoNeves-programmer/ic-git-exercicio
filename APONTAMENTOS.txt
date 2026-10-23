@@ -1,3 +1,0 @@
-O que são o Git e o GitHub: o Git regista as mudanças no código de um projeto, e o GitHub é uma plataforma online onde esses projetos ficam alojados e partilhados.
-O ciclo de trabalho com ficheiros: modificar, adicionar ao staging (git add) e guardar com git commit. Cada commit deve ter uma mensagem clara e corresponder a uma única tarefa.
-Como ligar um repositório local a um remoto: usa-se git remote add origin, depois git push para enviar alterações e git pull para as receber, resolvendo conflitos quando aparecem.
